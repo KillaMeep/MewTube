@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MewTube
 // @namespace    *://*.youtube.com*
-// @version      0.1
+// @version      0.2
 // @description  just makes youtube look ever so slightly better...
 // @author       KillaMeep
 // @match        https://www.youtube.com/
@@ -10,6 +10,10 @@
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
+
+//changes for 0.2
+//added github version checking
+
 
 (function() {
     'use strict';
